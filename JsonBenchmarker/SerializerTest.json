@@ -1,0 +1,132 @@
+{
+  "Id": 1,
+  "Name": "Leanne Graham",
+  "Username": "Bret",
+  "Email": "Test@Test.com",
+  "Address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "Phone": "1-770-736-8031 x56442",
+  "Website": "hildegard.org",
+  "Company": {
+    "name": "Romaguera-Crona",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-markets"
+  },
+  "Posts": [
+    {
+      "Id": 1,
+      "Title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "Body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "Id": 2,
+      "Title": "qui est esse",
+      "Body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "Id": 3,
+      "Title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "Body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    },
+    {
+      "Id": 4,
+      "Title": "eum et est occaecati",
+      "Body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+    },
+    {
+      "Id": 5,
+      "Title": "nesciunt quas odio",
+      "Body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+      "Comments": [
+        {
+          "Id": 1,
+          "Name": "John Doe",
+          "Body": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit"
+        },
+        {
+          "Id": 2,
+          "Name": "Jane Doe",
+          "Body": "There is no one who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure."
+        }
+      ]
+    }
+  ],
+  "Comments": [
+    {
+      "Id": 1,
+      "Name": "John Doe",
+      "Body": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit"
+    },
+    {
+      "Id": 2,
+      "Name": "Jane Doe",
+      "Body": "There is no one who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure."
+    }
+  ],
+  "Albums": [
+    {
+      "Id": 1,
+      "Title": "accusamus beatae ad facilis cum similique qui sunt",
+      "Photos": [
+        {
+          "Id": 1,
+          "Title": "accusamus beatae ad facilis cum similique qui sunt",
+          "Url": "https://via.placeholder.com/600/92c952"
+        },
+        {
+          "Id": 2,
+          "Title": "accusamus beatae ad facilis cum similique qui sunt",
+          "Url": "https://via.placeholder.com/600/771796"
+        },
+        {
+          "Id": 3,
+          "Title": "accusamus beatae ad facilis cum similique qui sunt",
+          "Url": "https://via.placeholder.com/600/24f355"
+        },
+        {
+          "Id": 4,
+          "Title": "accusamus beatae ad facilis cum similique qui sunt",
+          "Url": "https://via.placeholder.com/600/d32776"
+        },
+        {
+          "Id": 5,
+          "Title": "accusamus beatae ad facilis cum similique qui sunt",
+          "Url": "https://via.placeholder.com/600/f66b97"
+        },
+        {
+          "Id": 6,
+          "Title": "accusamus beatae ad facilis cum similique qui sunt",
+          "Url": "https://via.placeholder.com/600/56a8c2"
+        },
+        {
+          "Id": 7,
+          "Title": "accusamus beatae ad facilis cum similique qui sunt",
+          "Url": "https://via.placeholder.com/600/76f2c6"
+        },
+        {
+          "Id": 8,
+          "Title": "accusamus beatae ad facilis cum similique qui sunt",
+          "Url": "https://via.placeholder.com/600/5d4a6e"
+        },
+        {
+          "Id": 9,
+          "Title": "accusamus beatae ad facilis cum similique qui sunt",
+          "Url": "https://via.placeholder.com/600/8e8189"
+        },
+        {
+          "Id": 10,
+          "Title": "accusamus beatae ad facilis cum similique qui sunt",
+          "Url": "https://via.placeholder.com/600/f76644"
+        }
+      ]
+    }
+  ]
+}

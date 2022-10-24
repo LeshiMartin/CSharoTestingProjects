@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookStore>
+  <Category>
+    <Name>Action</Name>
+    <Book>
+      <Title>The Fault in Our Stars</Title>
+      <Author>John Green</Author>
+      <Price>16.99</Price>
+    </Book>
+    <Book>
+      <Title>The Book Thief</Title>
+      <Author>Markus Zusak</Author>
+      <Price>14.99</Price>
+    </Book>
+  </Category>
+  <Category>
+    <Name>Adventure</Name>
+    <Book>
+      <Title>The Hobbit</Title>
+      <Author>J.R.R. Tolkien</Author>
+      <Price>14.99</Price>
+    </Book>
+    <Book>
+      <Title>The Lord of the Rings</Title>
+      <Author>J.R.R. Tolkien</Author>
+      <Price>19.99</Price>
+    </Book>
+  </Category>
+  <Category>
+    <Name>Drama</Name>
+    <Book>
+      <Title>The Catcher in the Rye</Title>
+      <Author>J.D. Salinger</Author>
+      <Price>13.99</Price>
+    </Book>
+    <Book>
+      <Title>Pride and Prejudice</Title>
+      <Author>Jane Austen</Author>
+      <Price>12.99</Price>
+    </Book>
+  </Category>
+</BookStore>
